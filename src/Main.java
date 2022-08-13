@@ -17,7 +17,7 @@ class Main {
     boing454.addPassengers("beza");
     boing454.addPassengers("nahom");
     boing454.addPassengers("jery");
-        boing454.addPassengers("zerihun");
+    boing454.addPassengers("zerihun");
     boing454.listOfPassengers();
     }
 
